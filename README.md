@@ -1,6 +1,6 @@
 # Master Thesis: Predicting Dementia Types Using Machine Learning on Aggregate Images
 
-## Overview
+### Overview
 Dementia is a rapidly growing public health concern, characterised by the accumulation of misfolded protein aggregates in the brain. The morphological differences between these aggregates have been suggested as a potential parameter to diagnose different types of dementia. This project aims to establish a machine learning pipeline to predict four types of dementia: Parkinson’s Disease (PD), Dementia with Lewy Bodies (DLB), Frontotemporal Dementia (FTD), and Alzheimer’s Disease (AD). It also seeks to differentiate the morphological features of aggregates specific to these diseases.
 
 ### Methods:
@@ -17,8 +17,8 @@ Random forest demonstrated the best balance between performance and reliability,
 
 <img src="https://github.com/user-attachments/assets/b84a016a-c496-4e48-95f4-cc9d2e635da8" alt="CompEpi" width="800"/>
 
-## Usage
+### Usage
 This repository contains the framework for establishing the prediction pipeline. However, the relevant code for this project is reserved for lab use. For more details, please contact the Ye Lab at Imperial College London.
 
-## Acknowledgements
+### Acknowledgements
 This work was supervised by Dr. Yu Ye at the Ye Lab, Imperial College London. Special thanks to Dr. Michael Morten and Hailey Gu for their insights and technical support, and the support team for their assistance in developing the scripts used in this study.
